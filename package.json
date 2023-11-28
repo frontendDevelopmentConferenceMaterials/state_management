@@ -1,6 +1,7 @@
 {
   "name": "state_management",
   "type": "module",
+  "homepage": "https://in-kim.github.io/state-management",
   "private": true,
   "scripts": {
     "build": "slidev build",
