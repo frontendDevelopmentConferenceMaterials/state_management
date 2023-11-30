@@ -1,6 +1,6 @@
 ---
 theme: eloc
-title: '상퇘관리 라이브러리'
+title: '상태관리 라이브러리'
 author: 'blaze(김동인)'
 class: text-center
 highlighter: shiki
